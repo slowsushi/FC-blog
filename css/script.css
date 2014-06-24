@@ -70,3 +70,14 @@ padding: 10px 0;
 	height: 8px;
 	margin: 26px 0 0;
 }
+
+#main {
+margin-top: 50px;
+font-size: 12px;
+}
+
+#mainLeft {
+width: 280px;
+font-size: 16px;
+float: left;
+}
