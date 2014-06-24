@@ -20,7 +20,7 @@ h1, h2, h3, h4, h5, h6, p {
 }
 h5 {
 	color: #444;
-	text-align: left;
+	text-align: ;
 	font-size: 12px;
 	line-height: 20px;
 	margin-top: -9px;
@@ -92,6 +92,7 @@ h4 {
 	position: absolute;
 	width: 200px;
 	height: 200px;
+	border-radius: 100%;
 }
 #header {
 	height: 80px;

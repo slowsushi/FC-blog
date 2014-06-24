@@ -4,4 +4,4 @@ $(document).ready(setInterval(function() {
     var rand = Math.floor(Math.random() * colors.length);
     $('#logo').css("background-color", colors[rand]);
     
-}, 1000));
+}, 500));
