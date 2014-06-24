@@ -93,3 +93,25 @@ float: left;
 .about #mainRight {
 	margin-left: 254px;
 }
+
+#footer {
+	color: #666666;
+	font-size: 11px;
+	height: 100px;
+	background-repeat: no-repeat;
+	margin-top: -92px;
+}
+#footer .container {
+	background-color: #000;
+	width: 956px;
+	padding-left: 231px;
+	height: 100px;
+}
+#footer .nav {
+	float: left;
+	padding-left: 50px;
+}
+#footerImg {
+	height: 92px;
+	background: url(../images/footer.gif) no-repeat center;
+}
