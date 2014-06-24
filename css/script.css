@@ -105,7 +105,8 @@ h4 {
 #columnRight {
 	margin-left: 234px;
 }
-
+.home #columnRight {
+	margin-bottom: -20px;
 }
 #menu {
 	list-style-type: none;
