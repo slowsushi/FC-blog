@@ -113,5 +113,10 @@ float: left;
 }
 #footerImg {
 	height: 92px;
+	margin: auto;
 	background: url(https://raw.githubusercontent.com/slowsushi/FC-blog/gh-pages/img/footer.gif) no-repeat center;
+}
+
+#footer .contact {
+	margin-left: 150px;
 }
