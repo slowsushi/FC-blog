@@ -26,7 +26,8 @@ padding-bottom: 100px;
 }
 
 .content {
-padding: 10px 0;
+padding: 10px 0 10px 100px;
+
 }
 
 #logo {
@@ -104,9 +105,9 @@ float: left;
 }
 #footer .container {
 	background-color: #000;
-	width: 956px;
+	width: 100%px;
 	padding-left: 231px;
-	height: 100px;
+	height: 50px;
 }
 #footer .nav {
 	float: left;
