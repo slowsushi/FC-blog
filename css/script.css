@@ -83,11 +83,12 @@ float: left;
 }
 
 #mainLeft img {
+	
 	padding-top: 20px;
 	margin-right: 20px; 
 }
 
-#mainRight img {
+#mainRight .tabs {
 	padding-left: 40px;
 }
 .about #mainRight {
