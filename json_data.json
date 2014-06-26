@@ -1,0 +1,113 @@
+{
+  "response":{
+    "status":"ok",
+    "userTier":"free",
+    "total":110602,
+    "startIndex":1,
+    "pageSize":10,
+    "currentPage":1,
+    "pages":11061,
+    "orderBy":"newest",
+    "edition":{
+      "id":"uk-news",
+      "webTitle":"UK news",
+      "webUrl":"http://www.theguardian.com/uk-news",
+      "apiUrl":"http://content.guardianapis.com/uk-news",
+      "code":"default"
+    },
+    "section":{
+      "id":"uk-news",
+      "webTitle":"UK news",
+      "webUrl":"http://www.theguardian.com/uk-news",
+      "apiUrl":"http://content.guardianapis.com/uk-news",
+      "editions":[{
+        "id":"uk-news",
+        "webTitle":"UK news",
+        "webUrl":"http://www.theguardian.com/uk-news",
+        "apiUrl":"http://content.guardianapis.com/uk-news",
+        "code":"default"
+      }]
+    },
+    "results":[{
+      "id":"uk-news/2014/jun/26/phone-hacking-trial-milly-dowler-voicemail",
+      "sectionId":"uk-news",
+      "sectionName":"UK news",
+      "webPublicationDate":"2014-06-26T07:59:25Z",
+      "webTitle":"Phone-hacking trial failed to clear up mystery of Milly Dowler's voicemail",
+      "webUrl":"http://www.theguardian.com/uk-news/2014/jun/26/phone-hacking-trial-milly-dowler-voicemail",
+      "apiUrl":"http://content.guardianapis.com/uk-news/2014/jun/26/phone-hacking-trial-milly-dowler-voicemail"
+    },{
+      "id":"uk-news/2014/jun/26/nhs-errors-led-to-devon-boys-death",
+      "sectionId":"uk-news",
+      "sectionName":"UK news",
+      "webPublicationDate":"2014-06-25T23:05:00Z",
+      "webTitle":"NHS errors led to Devon boy's death, ombudsman's report finds",
+      "webUrl":"http://www.theguardian.com/uk-news/2014/jun/26/nhs-errors-led-to-devon-boys-death",
+      "apiUrl":"http://content.guardianapis.com/uk-news/2014/jun/26/nhs-errors-led-to-devon-boys-death"
+    },{
+      "id":"uk-news/2014/jun/26/queens-accounts-revealed-increase-public-purse",
+      "sectionId":"uk-news",
+      "sectionName":"UK news",
+      "webPublicationDate":"2014-06-25T23:01:04Z",
+      "webTitle":"Planes, trains and a redecoration – the Queen sets out accounts",
+      "webUrl":"http://www.theguardian.com/uk-news/2014/jun/26/queens-accounts-revealed-increase-public-purse",
+      "apiUrl":"http://content.guardianapis.com/uk-news/2014/jun/26/queens-accounts-revealed-increase-public-purse"
+    },{
+      "id":"uk-news/2014/jun/26/crown-estate-commercial-property-10bn-queen-267m-profits",
+      "sectionId":"uk-news",
+      "sectionName":"UK news",
+      "webPublicationDate":"2014-06-25T23:01:01Z",
+      "webTitle":"Crown Estate, ranging from retail parks to windfarms, valued at record £10bn",
+      "webUrl":"http://www.theguardian.com/uk-news/2014/jun/26/crown-estate-commercial-property-10bn-queen-267m-profits",
+      "apiUrl":"http://content.guardianapis.com/uk-news/2014/jun/26/crown-estate-commercial-property-10bn-queen-267m-profits"
+    },{
+      "id":"uk-news/2014/jun/25/1",
+      "sectionId":"uk-news",
+      "sectionName":"UK news",
+      "webPublicationDate":"2014-06-25T20:30:43Z",
+      "webTitle":"David Cameron's judgment in the dock after phone-hacking case",
+      "webUrl":"http://www.theguardian.com/uk-news/2014/jun/25/1",
+      "apiUrl":"http://content.guardianapis.com/uk-news/2014/jun/25/1"
+    },{
+      "id":"uk-news/2014/jun/25/tulisa-court-charged-drug-cocaine",
+      "sectionId":"uk-news",
+      "sectionName":"UK news",
+      "webPublicationDate":"2014-06-25T18:21:13Z",
+      "webTitle":"Tulisa in court charged with supplying cocaine to undercover reporter",
+      "webUrl":"http://www.theguardian.com/uk-news/2014/jun/25/tulisa-court-charged-drug-cocaine",
+      "apiUrl":"http://content.guardianapis.com/uk-news/2014/jun/25/tulisa-court-charged-drug-cocaine"
+    },{
+      "id":"uk-news/2014/jun/25/phonr-hacking-trial-legal-costs-rebekah-brooks",
+      "sectionId":"uk-news",
+      "sectionName":"UK news",
+      "webPublicationDate":"2014-06-25T18:04:36Z",
+      "webTitle":"Phone-hacking trial: total legal costs approach £100m",
+      "webUrl":"http://www.theguardian.com/uk-news/2014/jun/25/phonr-hacking-trial-legal-costs-rebekah-brooks",
+      "apiUrl":"http://content.guardianapis.com/uk-news/2014/jun/25/phonr-hacking-trial-legal-costs-rebekah-brooks"
+    },{
+      "id":"uk-news/2014/jun/25/-sp-phone-hacking-trial-rebekah-brooks-rupert-murdoch",
+      "sectionId":"uk-news",
+      "sectionName":"UK news",
+      "webPublicationDate":"2014-06-25T17:42:12Z",
+      "webTitle":"Phone-hacking trial was officially about crime; but in reality, it was about power",
+      "webUrl":"http://www.theguardian.com/uk-news/2014/jun/25/-sp-phone-hacking-trial-rebekah-brooks-rupert-murdoch",
+      "apiUrl":"http://content.guardianapis.com/uk-news/2014/jun/25/-sp-phone-hacking-trial-rebekah-brooks-rupert-murdoch"
+    },{
+      "id":"uk-news/2014/jun/25/news-uk-contempt-witness-protection",
+      "sectionId":"uk-news",
+      "sectionName":"UK news",
+      "webPublicationDate":"2014-06-25T16:58:53Z",
+      "webTitle":"News UK could face contempt case for allegedly targeting witness protection",
+      "webUrl":"http://www.theguardian.com/uk-news/2014/jun/25/news-uk-contempt-witness-protection",
+      "apiUrl":"http://content.guardianapis.com/uk-news/2014/jun/25/news-uk-contempt-witness-protection"
+    },{
+      "id":"uk-news/2014/jun/25/andy-coulson-jury-discharged-live-coverage",
+      "sectionId":"uk-news",
+      "sectionName":"UK news",
+      "webPublicationDate":"2014-06-25T16:53:42Z",
+      "webTitle":"Andy Coulson jury discharged as judge criticises Cameron – as it happened",
+      "webUrl":"http://www.theguardian.com/uk-news/2014/jun/25/andy-coulson-jury-discharged-live-coverage",
+      "apiUrl":"http://content.guardianapis.com/uk-news/2014/jun/25/andy-coulson-jury-discharged-live-coverage"
+    }]
+  }
+}
