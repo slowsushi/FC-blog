@@ -6,7 +6,7 @@
 
       success: function(data) {
         $.each(data.response.results, function () {
-                 $( "p ul").append('<li> this['webTitle'] +'</a><p>' + this['fields'].trailText + '</p></li>');
+                 $( "#tab1").append('<li> this['webTitle'] +'</a><p>' + this['fields'].trailText + '</p></li>');
         });
 
       }});
